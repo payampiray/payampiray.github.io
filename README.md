@@ -1,3 +1,3 @@
-[**My webpage**](https://scholar.princeton.edu/payampiray)
+[**My webpage**](https://piraylab.com)
 
 [**cbm manual**](https://payampiray.github.io/cbm)
